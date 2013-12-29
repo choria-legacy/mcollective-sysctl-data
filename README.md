@@ -2,7 +2,7 @@
 
 ##Introduction
 
-This plugin can retrive a value from a Linux sysctl variable to be used in agents and discovery.
+This plugin can retrieve a value from a Linux sysctl variable to be used in agents and discovery.
 
 Sample usage to select all machines where ipv4 forwarding is enabled:
 
