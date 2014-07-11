@@ -1,0 +1,14 @@
+---
+project: 'mcollective-sysctl-data'
+author: 'Puppet Labs'
+email: 'info@puppetlabs.com'
+homepage: 'https://github.com/puppetlabs/mcollective-sysctl-data'
+summary: 'Retrieve values for a given sysctl'
+description: 'Retrieve values for a given sysctl'
+# files and gem_files are space separated lists
+files:
+  - data
+# List of packaging related templates to evaluate before the tarball is packed
+templates:
+  - "ext/redhat/mcollective-sysctl-data.spec.erb"
+  - "ext/debian/changelog.erb"
