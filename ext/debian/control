@@ -1,0 +1,13 @@
+Source: mcollective-sysctl-data
+Homepage: https://github.com/puppetlabs/mcollective-sysctl-data
+Section: utils
+Priority: extra
+Maintainer: Puppet Labs
+Build-Depends: cdbs, debhelper
+Standards-Version: 3.8.0
+
+Package: mcollective-sysctl-data
+Architecture: all
+Description: Retrieve values for a given sysctl
+Depends: mcollective-common(>= 2.2.1)
+
