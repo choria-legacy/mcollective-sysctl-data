@@ -2,7 +2,7 @@ metadata    :name        => "sysctl",
             :description => "Retrieve values for a given sysctl",
             :author      => "R.I.Pienaar <rip@devco.net>",
             :license     => "ASL 2.0",
-            :version     => "2.0.0",
+            :version     => "2.0.1",
             :url         => "http://marionette-collective.org/",
             :timeout     => 1
 
